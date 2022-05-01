@@ -1,3 +1,3 @@
-# CTTT_SR_Guide_Any-Switch-Solo_Ja
+Source files of 「進め！キノピオ隊長」RTAガイド（"Captain Toad: Treasure Tracker" Speedrun Guide）： Any% - Switch (Solo)
 
-https://samuelladoco.github.io/CTTT_SR_Guide_Any-Switch-Solo_Ja/
+URL: https://samuelladoco.github.io/CTTT_SR_Guide_Any-Switch-Solo_Ja/
